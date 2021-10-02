@@ -8,7 +8,7 @@
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smitpatel316&show_icons=true&theme=dracula" />
 
-- 🔭 I’m currently working on finishing my Bachelor of Science in Computer Science @ University of Toronto (May 2021).
+- 🔭 I have completed my Bachelor of Science in Computer Science @ University of Toronto (May 2021).
 - 🌱 I’m currently learning Machine Learning, Data Mining and Artificial Intelligence!
 - 👯 I’m looking to collaborate on open source projects.
 </div>
